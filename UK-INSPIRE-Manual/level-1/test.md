@@ -1,5 +1,5 @@
 #What is INSPIRE?
-##INSPIRE is an infrastructure for spatial data in Europe
+##INSPIRE is an infrastructure for sharing spatial data in Europe
 
 The geographical information held by European countries does not currently join up - but the environment does. Environmental issues such as flooding, forest fires and climate change do not respect national borders.
 
